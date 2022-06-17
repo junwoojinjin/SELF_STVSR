@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="server-11" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="server-02">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/ssd0/junwoojin/codes/ZSM" local="$PROJECT_DIR$" web="/" />
+            <mapping local="" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="server-11">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/ssd0/junwoojin/codes/Zooming-Slow-Mo-CVPR-2020" local="$PROJECT_DIR$" web="/" />
+            <mapping local="" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
